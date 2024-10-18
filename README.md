@@ -38,6 +38,8 @@ Feel free to reach out or check my repositories below. ✨
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokcearda&layout=compact&theme=radical)
 
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gokcearda&theme=radical)
+
 ---
 
 🚀 Always eager to learn and grow, and happy to collaborate on interesting projects! Let’s build something great together.
