@@ -34,11 +34,15 @@ Feel free to reach out or check my repositories below. ✨
 
 ### 📊 GitHub Stats
 
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokcearda&show_icons=true&theme=radical)
+### 🔥 My GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gokcearda&theme=radical)](https://git.io/streak-stats)
 
+### 💻 Top Languages I Use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokcearda&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gokcearda&theme=radical)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=gokcearda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
